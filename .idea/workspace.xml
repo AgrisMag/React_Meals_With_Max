@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76773830-5d60-4550-9651-e27731b95938" name="Changes" comment="First commit">
+    <list default="true" id="76773830-5d60-4550-9651-e27731b95938" name="Changes" comment="Added cart context">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Layout/HeaderCartButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/HeaderCartButton.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +20,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/components/Layout/HeaderCartButton.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JsBowerSettings">
     <bower-package value="" />
@@ -48,7 +48,7 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Learning\01-starting-project\node_modules\prettier" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="advanced.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -70,8 +70,16 @@
       <workItem from="1647984573584" duration="50000" />
       <workItem from="1647984882182" duration="15000" />
       <workItem from="1647984900022" duration="9000" />
-      <workItem from="1647985552380" duration="572000" />
+      <workItem from="1647985552380" duration="872000" />
     </task>
+    <task id="LOCAL-00001" summary="Added cart context">
+      <created>1647986189599</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647986189599</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +95,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added cart context" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added cart context" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
